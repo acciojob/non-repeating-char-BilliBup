@@ -5,5 +5,5 @@ function charachterRepeat(str) {
 			return str.charAt(i);
 		}
 	}
-	return -1;
+	
 }
